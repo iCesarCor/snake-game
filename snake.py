@@ -1,6 +1,10 @@
 import readchar
 import os
 import random
+
+def main():
+    pass
+
 pos_x = 0
 pos_y = 1
 my_position = [3, 1]

@@ -69,6 +69,3 @@ while not end_game:
             my_position[pos_x] = 0
     elif direction == "q":
         end_game = True
-    """ if my_position in tail:
-        print("Has Muerto!!")
-        end_game = True """

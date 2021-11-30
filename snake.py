@@ -5,8 +5,8 @@ import random
 def main():
     pass
 
-def recorrido():
-    pass
+""" def recorrido():
+    pass """
 
 pos_x = 0
 pos_y = 1
